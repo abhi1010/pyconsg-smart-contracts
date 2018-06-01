@@ -3,6 +3,8 @@
 
 This is a very simple project for managing smart contracts using Python.
 
+PyCon presentation can be found at [bit.ly/pyconsg-ico](http://bit.ly/pyconsg-ico)
+
 ## Setup
 
 ```bash
