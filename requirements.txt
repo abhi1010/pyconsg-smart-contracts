@@ -28,7 +28,7 @@ pluggy==0.6.0
 py==1.5.3
 py-solc==3.0.0
 pycparser==2.18
-pycryptodome==3.6.1
+pycryptodome==3.6.6
 pyethash==0.1.27
 pysha3==1.0.2
 pytest==3.6.0
